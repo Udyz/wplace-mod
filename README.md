@@ -1,5 +1,5 @@
 # wplace-mod
- A userscript to become fake admin on Wplace.live
+A userscript to become an admin on Wplace.live
 
 **Unlock some features**
 
